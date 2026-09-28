@@ -1,0 +1,30 @@
+Luca Williams
+Software Engineer
+Los Angeles, California
+luca.williams@example.com
+linkedin.com/in/lucawilliams
+
+Summary
+Software Engineer with 13 years of experience in mobile application development and hands-on experience across AI/AI agents, game development, full-stack engineering, networking, and performance optimization. Over the past 3 years, I have focused on practical AI implementations, AI agent development, and optimizing AI models for mobile and embedded environments. I bring strong problem-solving skills, performance-driven engineering, and a practical approach to building efficient software for real-world use.
+
+Experience
+Senior Software Engineer | 2022 — Present
+- Designed and delivered practical AI and agent-based systems for mobile, edge, and embedded environments.
+- Optimized model performance for resource-constrained platforms by reducing memory, compute, and latency overhead.
+- Built full-stack, user-centered applications with emphasis on architecture quality, reliability, and speed.
+
+Mobile Engineer | 2016 — 2022
+- Developed and shipped responsive mobile applications with a strong focus on usability, maintainability, and performance.
+- Improved network communication and data transfer efficiency to reduce latency and increase reliability.
+- Worked across native and cross-platform application layers to deliver high-quality user experiences.
+
+Game Developer / Interactive Systems Engineer | 2011 — 2016
+- Built high-performance interactive experiences in Unity and Cocos, optimizing rendering, memory, and runtime behavior.
+- Designed game systems and mechanics with a focus on scalability, responsiveness, and user engagement.
+- Collaborated on architecture decisions balancing creativity, constraints, and performance requirements.
+
+Core Skills
+AI / AI Agents, Mobile Development, Embedded AI, Full-Stack, Networking, Performance Optimization, Unity, Cocos, Search Data Structures, Resource-Constrained Systems
+
+Additional
+Strong mathematical and algorithmic background with experience solving complex technical challenges and designing resource-efficient solutions. Outside of coding, I enjoy spending time with my family, friends, and animals.
